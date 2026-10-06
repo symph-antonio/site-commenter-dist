@@ -1,0 +1,29 @@
+{
+  "name": "site-commenter",
+  "version": "1.5.0",
+  "target": "es2022",
+  "inputBundleSha256": "626d02109583e2533e86f27eb51cf16cd8fcd2c0e17423a39db62b6e67bbb3fc",
+  "sourceSha256": {
+    "capture.js": "9d33a1901f11d918b9e4a7767c518a66c12eb01f4a1be1092933bf082a205f94",
+    "site-commenter.js": "1ddf24f6664cfaac360c54b9cd327b4f7b236159e83954dcf2f35c00b362c5c9",
+    "dom-adapter.js": "87d10ae039142f44b464587e2c245d92873334448ec3a4a8557da8e2f43eeb8e",
+    "initialize.js": "70c0193abf2d645681e5859ef1f9d195d82a18c084ee671443d1f7241d6c0770"
+  },
+  "renderer": {
+    "name": "html2canvas",
+    "version": "1.4.1",
+    "sha256": "e87e550794322e574a1fda0c1549a3c70dae5a93d9113417a429016838eab8cb"
+  },
+  "files": {
+    "site-commenter.min.js": {
+      "bytes": 257584,
+      "sha256": "e924d3b533fd329d9ec14a5296c7605eee22448abb6205c593a803a6a7e7411f",
+      "integrity": "sha384-j228d915SWlBpI6PBGd9wcsUMkg83+OQ6sWgoF85iBsQgk83+MPDIp4GZyDi+0yi"
+    },
+    "THIRD_PARTY_NOTICES.txt": {
+      "bytes": 1120,
+      "sha256": "a41e67ce09ac0be8fa6fb89dda0c9db6cca9f331a2eb7ab47ed3a22519cd7144",
+      "integrity": "sha384-ZGonWvd/+sQxQcEoKAjL+6g1OwIdEguZSf/BnvBGBf5tKvkZYCH8hmatLc/ccm/E"
+    }
+  }
+}

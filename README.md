@@ -8,7 +8,7 @@ Public production bundles for reusable website annotations. The source repositor
 <script defer
   src="https://symph-antonio.github.io/site-commenter-dist/v1.5.0/site-commenter.min.js"
   crossorigin="anonymous"
-  integrity="INTEGRITY_FROM_VERSION_MANIFEST"
+  integrity="sha384-j228d915SWlBpI6PBGd9wcsUMkg83+OQ6sWgoF85iBsQgk83+MPDIp4GZyDi+0yi"
   data-site-id="your-site"
   data-revision="page-v1"
   data-endpoint="YOUR_PUBLIC_APPS_SCRIPT_EXEC_URL"></script>

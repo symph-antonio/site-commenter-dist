@@ -1,0 +1,29 @@
+{
+  "name": "site-commenter",
+  "version": "1.6.0",
+  "target": "es2022",
+  "inputBundleSha256": "c898e53500d61e31dd294a5ba09eaa700b880f1193c15ad413bfd00a90ec5485",
+  "sourceSha256": {
+    "capture.js": "9d33a1901f11d918b9e4a7767c518a66c12eb01f4a1be1092933bf082a205f94",
+    "site-commenter.js": "5f011a0bb24ca041be75482965289a13b1f2f79daade4694d4e1ae1156be90f9",
+    "dom-adapter.js": "87d10ae039142f44b464587e2c245d92873334448ec3a4a8557da8e2f43eeb8e",
+    "initialize.js": "70c0193abf2d645681e5859ef1f9d195d82a18c084ee671443d1f7241d6c0770"
+  },
+  "renderer": {
+    "name": "html2canvas",
+    "version": "1.4.1",
+    "sha256": "e87e550794322e574a1fda0c1549a3c70dae5a93d9113417a429016838eab8cb"
+  },
+  "files": {
+    "site-commenter.min.js": {
+      "bytes": 260320,
+      "sha256": "8038eb29592a905d6aa50e9ad48a70a488c8ab179cd535380c1bc3727c83ce67",
+      "integrity": "sha384-LCLtKkU7l2bnuWDumPTrvSfCdDskSo9cbI50mB2caUaX7qjOZhPI5k353SJT4As1"
+    },
+    "THIRD_PARTY_NOTICES.txt": {
+      "bytes": 1120,
+      "sha256": "a41e67ce09ac0be8fa6fb89dda0c9db6cca9f331a2eb7ab47ed3a22519cd7144",
+      "integrity": "sha384-ZGonWvd/+sQxQcEoKAjL+6g1OwIdEguZSf/BnvBGBf5tKvkZYCH8hmatLc/ccm/E"
+    }
+  }
+}
